@@ -2,6 +2,8 @@
 
 A simple URL shortener plugin for WordPress with usage statistics.
 
+![Vincent's Shortener Preview](https://github.com/vincentrozenberg/WP-vincents-shortener/blob/main/vs-preview.png)
+
 ## Description
 
 Vincent's Shortner is a lightweight WordPress plugin that allows you to create and manage short URLs directly from your WordPress admin panel. It includes features like custom short codes, usage tracking, and a frontend shortcode for public use.
